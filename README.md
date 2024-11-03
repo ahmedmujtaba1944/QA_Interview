@@ -15,11 +15,11 @@
 - Difference between Functional and non Non-functional testing ?
 - Testing Levels ?
 - Testing Types ?
-- Block box, white box, grey box, yellow box, red box, green box ?
-- Types of non functional testing ?
+- Black box, white box, grey box, yellow box, red box, green box ?
+- Types of Non-functional testing ?
 - types of performance testing and explain each with example ?
 - test case writing techniques ?
-- smock testing  vs sanity testing ?
+- Difference between smoke testing and sanity testing
 - what is regression testing ?
 - what is Alpha beta testing ?
 - Types of regression testing ?
