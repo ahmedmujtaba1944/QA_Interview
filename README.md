@@ -76,6 +76,31 @@
     4. severity low, Priority low 
 - explain the velocity in agile ?
 - how to you deal when requirments change frequently ?
+- - what is test stub ?
+- what is task board in agile ?
+- Difference between load, stress, volumne, spike testing ?
+- what is test coverage ?
+- What is API Testing ?
+- What is payload ?
+- What are request  heads?
+- what are responce header ?
+- status codes in API.
+- Responce Methods ?
+- 101,201,301,401,500 and all series status codes ?
+- what types of testing is apply when you have short time or day end of the release ?
+- What is TDD, BDD, ATdd ?
+- At day end of release the critical bug is arise then this situation hwo you can deal ?
+- Negative test cases of ATM ?
+- Which method get,post,put,patch,delete is mroe secure ?
+- what is base 64 encoding in API ?
+- what is authentication vs authorization ? with example ?
+- difference between bug and error ?
+- what are release notes ?
+- if developer is not acception  the bug hwo you convince  him or deal with situation ?
+- if developer is  not present and app is crash in production as a QA what should you do ?
+- what is bug triage ?
+- when testing starts ?
+- can regression testing is skip if we have short time ?
 - what is test stub ?
 - what is task board in agile ?
 - Difference between load, stress, volumne, spike testing ?
