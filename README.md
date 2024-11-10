@@ -101,7 +101,37 @@
 - what is bug triage ?
 - when testing starts ?
 - can regression testing is skip if we have short time ?
-- what is test stub ?
-- what is task board in agile ?
-- Difference between load, stress, volumne, spike testing ?
-- what is test coverage ?
+- A cake is cut in 8 pieces maximum 3 cuts ?
+- when you have your merriage but on this day a major build is deliver to client then this  day you come in to office or not ?
+- Testing Process ?
+- Roles and responsiblities ?
+- pixels testing ?
+- how mobile screen is connect with laptop ?
+- load stress testing with Jmeter ?
+- Reference variable handling in jmeter in which option ?
+- samplers listenrs ?
+- All elements like thread group, samplers, listenrs etc explain ?
+- Generate HTML Report ?
+- Import CSV data file in Jmeter ?
+- If we have 8 eggs 1 egg have less weight how are the minium attemts to identify the volume of eggs?
+- web debugger ?
+- android debugger tool?
+- crach check tool for android ( firebase)
+- levels of testing ?
+- methods of testing
+- types  of testing
+- process you follow which perform testing in you software house ?
+- endwance testing ?
+- fuzz testing ?
+- what is thread gropu and loop count ?
+- what is samplers and its types ?
+- what is listenrs and its types ?
+- what is state transition testing ?
+- what is adhoc testing ?
+- what is 100, 200, 300 and 400, 500 series represent in API ?
+- what is authentication token and why it is set into the global environemnt ?
+- what is environment variable and its types ?
+- what is stored procedure ?
+- what is trigers ?
+- difference between stored procedure and trigers ?
+
