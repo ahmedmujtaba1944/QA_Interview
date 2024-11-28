@@ -134,4 +134,8 @@
 - what is stored procedure ?
 - what is trigers ?
 - difference between stored procedure and trigers ?
+- As a QA where you see your self after 5 years ( goals) ?
+- If we have relase today and you have family function at the same day which one you should priority  ?
+- if we have option for dev and db role can you join us ?
+- what challanges you face as a Fresh QA Engineer. ?
 
