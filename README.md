@@ -138,4 +138,38 @@
 - If we have relase today and you have family function at the same day which one you should priority  ?
 - if we have option for dev and db role can you join us ?
 - what challanges you face as a Fresh QA Engineer. ?
-
+- Write a java program for the largest number from three number
+- What is SDLC and STLC? And Explain its phases.
+- Define your roles and responsibility.
+- What is regression testing?
+- What are different methodologies of SDLC? Explain each.
+- Define Agile?
+- Define Scrum And Sprint?
+- What is the estimation in Sprint?
+- What is sprint backlog?
+- What are the different reports in Testing?
+- What are the key components of the TestCase report?
+- What are the components of a defect report?
+- What is Jira?
+- How do you log defect in Jira?
+- How do you link bugs with the user story?
+- What is sprint?
+- Define black box and white box testing,
+- Define functional testing.
+- Define the oops concept in java.
+- Give me examples of oops which you used in your framework.
+- What is TestNG
+- What is usability testing?
+- What are the steps for reporting the defect in Jira?
+- Define Structure of Selenium?
+- How will you handle the dropdown in selenium?
+- Different types of wait in selenium? Explain each of them. 
+- Difference between hard and soft assertion?
+- Why are we using "WebDriver driver = new ChromeDrive ()"? 
+- Why can't we write RemoteDriver driver = new ChromeDrive();
+- Explain the different Annotations in TestNG?
+- Define Priority and Severity of the Bug?
+- How to maximize the screen in Selenium?
+- What are the different closure reports?
+- What is the difference between a Test Plan and a Test Strategy document?
+- Define Bug lifecycle of JIRA.
