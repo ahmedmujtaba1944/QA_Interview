@@ -173,3 +173,42 @@
 - What are the different closure reports?
 - What is the difference between a Test Plan and a Test Strategy document?
 - Define Bug lifecycle of JIRA.
+
+1. Co-worker asking for help while you have a lot of work
+Politely explain your current workload and prioritize completing your tasks. If possible, offer to help after finishing your work or guide them to resources that can assist them. Balance teamwork with your responsibilities.
+
+2. Junior asking for help while you have a lot of work
+Prioritize critical tasks first, then allocate time for mentoring. Provide clear, concise guidance or share resources to help them. Emphasize collaboration and learning while maintaining focus on your priorities.
+
+3. Developer not accepting a reported bug
+Provide detailed evidence, such as logs, screenshots, or steps to reproduce the bug. Explain its impact on users or functionality. If needed, involve the QA lead or product owner to mediate and validate the issue collaboratively.
+
+Question: You’re asked to test a feature, but the development team delivers it late, leaving you with minimal time for testing. How would you ensure the quality of the release?
+Answer: Focus on high-priority test cases that cover critical functionalities. Use risk-based testing to identify and test the most impactful areas. Communicate potential risks to stakeholders and suggest deferring less critical features if neede
+
+Question: A critical bug is reported in production, and the management expects a quick resolution. How would you approach debugging and testing in such a high-pressure situation?
+Answer: Reproduce and document the issue immediately, then escalate it to the development team. Prioritize fixing and retesting the bug to ensure it doesn’t cause further issues. Communicate updates with stakeholders and conduct a root cause analysis post-resolution.
+
+Question: A developer insists the functionality is as per requirements, but you believe it doesn’t align with the user story. How would you handle this disagreement?
+Answer: Stay professional and provide evidence like logs, screenshots, or test cases. Discuss the issue calmly and involve the product owner or business analyst for clarification. Ensure the focus remains on delivering quality rather than proving a point.
+
+Question: During regression testing, you find multiple critical bugs right before the release. What steps would you take to handle this situation?
+Answer: Prioritize bugs based on severity and impact. Notify the team and discuss which issues need immediate attention. Focus on fixing and retesting critical bugs first, and recommend delaying the release if unresolved bugs pose significant risks.
+
+Question: Your manager asks you to prioritize test cases for execution due to time constraints. How would you decide which ones to execute?
+Answer: Prioritize test cases covering core functionalities, high-risk areas, and frequently used features. Collaborate with stakeholders to agree on the prioritization and ensure alignment with business goals.
+
+Question: In an Agile sprint, the development team delivers incomplete stories for testing. How would you ensure sprint quality without blocking progress?
+Answer: Perform incremental testing on the available functionality. Collaborate closely with developers for updates and test partially completed features. Use exploratory testing to provide early feedback and adjust your plan as the sprint progresses.
+
+Question: Your test environment is down, and testing needs to be completed within a strict deadline. How would you manage this situation?
+Answer: Report the issue immediately to the environment management team. If possible, use an alternative setup or perform local testing. Communicate potential delays to stakeholders and prioritize tasks once the environment is restored.
+
+Question: A bug that was missed during testing is reported by the client. How would you handle this and prevent similar issues in the future?
+Answer: Acknowledge the issue, investigate its root cause, and ensure it’s fixed promptly. Update or add test cases to cover the scenario. Share lessons learned with the team to improve the process and avoid future leaks.
+
+Question: You’re asked to test a feature with unclear or incomplete requirements. How would you approach the testing process?
+Answer: Seek clarification from the product owner or business analyst. If requirements remain unclear, proceed with exploratory testing based on your understanding of similar features and document your assumptions for review.
+
+Question: A developer repeatedly rejects valid bugs you’ve raised. What steps would you take to address this and maintain a healthy work relationship?
+Answer: Reproduce the bug with detailed evidence, such as screenshots, videos, or logs. Discuss the issue with the developer to understand their perspective. If disagreements persist, involve a QA lead or product owner for further review and resolution.
